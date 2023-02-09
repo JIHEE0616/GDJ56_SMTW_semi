@@ -71,6 +71,22 @@
 1) 사용자가 직접 원하는 언어/여행지/날씨/성향을 선택하여 적합한 워킹홀리데이 나라를 매칭 해주는 기능
 -> 나라정보 페이지로 이동 가능
 
+### 4. 사용 기술
 
+#### 4-1 백엔드
 
+##### 개발 환경 및 라이브러리
+- Java 11
+- jQuery 3.6.1
+- WAS : Tomcat 9.0
+
+##### Build Tool
+- Eclipse IDE 2022-09
+- Oracle Sql Developer
+
+##### DataBase
+- Orcale DB
+
+#### 4-2 프론트엔드
+- Visual Studio Code (HTML / CSS)
 
