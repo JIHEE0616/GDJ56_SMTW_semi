@@ -93,3 +93,19 @@
 #### 4-2 프론트엔드
 - Visual Studio Code (HTML / CSS)
 
+### 4. 실행 화면
+  <details>
+    <summary>[ 회원 관리 ] - 비밀번호 찾기 및 재설정</summary>   
+       
+    
+  **1. 비밀번호 찾기**   
+ ![비밀번호찾기-이메일인증성공](https://user-images.githubusercontent.com/39483946/218007468-c91e16e3-c3ef-4656-b879-9aeb2a584d23.JPG)
+  
+  가입시 임력했던 이메일 인증을 통해 비밀번호 찾기를 이용할 수 있다.
+     
+  
+  **2. 재설정**   
+![비밀번호재설정](https://user-images.githubusercontent.com/39483946/218007234-2150aa6d-1f13-47aa-8521-fff8bc79ffdf.JPG)
+  
+  이메일인증에 성공시 비밀번호를 재설정 할 수 있다. 
+
