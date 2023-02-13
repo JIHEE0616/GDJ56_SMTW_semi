@@ -1,4 +1,4 @@
-### GDJ56_SMTW_semi
+### SemiProject_SMTW
 [Show Me The Way](https://gd1class.iptime.org:8844/GDJ56_smtw_semi/)
 > 워킹홀리데이를 준비하는 사람들을 위한 정보 공유 및 커뮤니티 사이트  :  Show Me The Way
 
