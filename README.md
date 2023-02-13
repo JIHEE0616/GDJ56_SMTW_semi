@@ -133,7 +133,7 @@
 ![나에게맞는나라찾기전체](https://user-images.githubusercontent.com/39483946/218349719-23c9d0c3-6888-4a65-84a3-beb3f6236b91.jpg)
 
 -> 4가지 항목을 체크
- <br/>
+ <br> <br>
 ![나에게맞는나라찾기결과](https://user-images.githubusercontent.com/39483946/218007690-5feb0795-07ca-449c-9ba6-d8556e037fb5.JPG)
 
 -> 체크한 항목에 맞는 나라 결과를 보여줌
