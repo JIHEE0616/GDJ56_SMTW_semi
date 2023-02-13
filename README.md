@@ -86,7 +86,7 @@
  ![비밀번호찾기-이메일인증성공](https://user-images.githubusercontent.com/39483946/218007468-c91e16e3-c3ef-4656-b879-9aeb2a584d23.JPG)
   
 -> 가입시 임력했던 이메일 인증을 통해 비밀번호 찾기를 이용할 수 있다.
-     
+  <br/>    
   
   **2. 재설정**   
 ![비밀번호재설정](https://user-images.githubusercontent.com/39483946/218007234-2150aa6d-1f13-47aa-8521-fff8bc79ffdf.JPG)
@@ -101,25 +101,25 @@
 
 -> 출국일은 오늘 날짜 이후로만 선택 가능하게 제한
 -> 출국 10일전 알림서비스 체크 가능
-
+ <br/>
   **2. 출국일지에 따른 화면처리 및 Ajax를 통한 체크리스트 저장**
 ![출국일남은사람](https://user-images.githubusercontent.com/39483946/218007816-64af3a59-b335-4839-99c2-ac32e71e0dd9.JPG)
   
 -> 출국일 남은사람
-  
+   <br/>
 ![출국일지 디데이](https://user-images.githubusercontent.com/39483946/218007894-8ed3540d-6a22-414e-9709-c40019216339.JPG)
 
 -> 출국일 디데이
-
+ <br/>
 ![출국일지난사람](https://user-images.githubusercontent.com/39483946/218007923-58c86368-6888-4071-84ee-dda5b0f603b2.JPG)
   
 -> 출국일 지난사람 / 삭제가능
-
+ <br/>
 **3. 출국일 알림서비스**
 ![알림서비스동의시출국10일전알림팝업](https://user-images.githubusercontent.com/39483946/218007749-27b6697c-d37c-4b6e-afd1-020aca3bbd6a.JPG)
   
 -> 10일전 알림서비스 체크하면 로그인시 알림팝업을 띄워줌
-  
+   <br/>
 ![10일전단체메일전송](https://user-images.githubusercontent.com/39483946/218007572-0a1d412f-b965-4587-9d5e-2e3289654d10.JPG)
 
 ![출국10일전메일수신](https://user-images.githubusercontent.com/39483946/218007788-57219bb5-b208-4011-b4fc-001f2752f3ee.JPG)
@@ -133,7 +133,7 @@
 ![나에게맞는나라찾기전체](https://user-images.githubusercontent.com/39483946/218349719-23c9d0c3-6888-4a65-84a3-beb3f6236b91.jpg)
 
 -> 4가지 항목을 체크
-
+ <br/>
 ![나에게맞는나라찾기결과](https://user-images.githubusercontent.com/39483946/218007690-5feb0795-07ca-449c-9ba6-d8556e037fb5.JPG)
 
 -> 체크한 항목에 맞는 나라 결과를 보여줌
