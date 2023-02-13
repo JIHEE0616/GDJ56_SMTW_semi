@@ -108,7 +108,7 @@
 ![비밀번호재설정](https://user-images.githubusercontent.com/39483946/218007234-2150aa6d-1f13-47aa-8521-fff8bc79ffdf.JPG)
   
 -> 이메일인증에 성공시 비밀번호를 재설정 할 수 있다. 
-  
+ </details>
  <details>
     <summary>[ 출국일지 관리 ]</summary>   
 
@@ -131,3 +131,4 @@
   
 -> 출국일 지난사람
 
+</details>   
