@@ -19,6 +19,7 @@
 
 - [설계](#설계)
   - [DB 설계](#-DB-설계)
+  - [기능정의서 설계](#-기능정의서-설계)
 
 - [개발 내용](#개발-내용)
 
@@ -149,6 +150,9 @@
  
 ![세미ERD](https://user-images.githubusercontent.com/39483946/218352904-57b20302-bf53-4efb-9b83-a6115b135ef9.JPG)
   <br/>
+
+ ### 기능정의서 설계
+[SMTW -기능정의서](https://docs.google.com/spreadsheets/d/1kyg4FwIMaeKX7fXy-HNRVtXHTSIidtTpHw4VzavHF1Y/edit#gid=1911760)
  ## 개발 내용
  - **[ 팝업창 ]**
 1) 홈페이지 방문시 팝업창 뜸 -> 나에게 맞는 나라찾기로 이동 가능
