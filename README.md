@@ -95,7 +95,14 @@
 
 ### 4. 실행 화면
   <details>
-    <summary>[ 회원 관리 ] - 비밀번호 찾기 및 재설정</summary>   
+    <summary>[ 메인페이지 - 팝업창 ]</summary>   
+![팝업창](https://user-images.githubusercontent.com/39483946/218007976-9f640667-ee6f-4f81-92c1-231a09a3cb91.JPG)
+  
+-> 하루동안 이 창 열지 않음 체크 후 닫을 시 쿠키가 생성되어 1일간 해당 팝업이 열리지 않음
+  </details>
+  
+  <details>
+    <summary>[ 회원 관리 ]</summary>   
        
     
   **1. 비밀번호 찾기**   
@@ -129,6 +136,29 @@
 
 ![출국일지난사람](https://user-images.githubusercontent.com/39483946/218007923-58c86368-6888-4071-84ee-dda5b0f603b2.JPG)
   
--> 출국일 지난사람
+-> 출국일 지난사람 / 삭제가능
+
+**3. 출국일 알림서비스**
+![알림서비스동의시출국10일전알림팝업](https://user-images.githubusercontent.com/39483946/218007749-27b6697c-d37c-4b6e-afd1-020aca3bbd6a.JPG)
+  
+-> 10일전 알림서비스 체크하면 로그인시 알림팝업을 띄워줌
+  
+![10일전단체메일전송](https://user-images.githubusercontent.com/39483946/218007572-0a1d412f-b965-4587-9d5e-2e3289654d10.JPG)
+
+![출국10일전메일수신](https://user-images.githubusercontent.com/39483946/218007788-57219bb5-b208-4011-b4fc-001f2752f3ee.JPG)
+  
+-> 회원가입시 메일수신동의를 체크 한 회원은 출국10일전에 메일로도 알림서비스를 받을 수 있음 
 
 </details>   
+ <details>
+    <summary>[ 나에게 맞는 나라찾기 ]</summary> 
+  
+![나에게맞는나라찾기전체](https://user-images.githubusercontent.com/39483946/218349719-23c9d0c3-6888-4a65-84a3-beb3f6236b91.jpg)
+
+-> 4가지 항목을 체크
+
+![나에게맞는나라찾기결과](https://user-images.githubusercontent.com/39483946/218007690-5feb0795-07ca-449c-9ba6-d8556e037fb5.JPG)
+
+-> 체크한 항목에 맞는 나라 결과를 보여줌
+
+ </details>
