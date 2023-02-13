@@ -101,14 +101,33 @@
   **1. 비밀번호 찾기**   
  ![비밀번호찾기-이메일인증성공](https://user-images.githubusercontent.com/39483946/218007468-c91e16e3-c3ef-4656-b879-9aeb2a584d23.JPG)
   
-  가입시 임력했던 이메일 인증을 통해 비밀번호 찾기를 이용할 수 있다.
+-> 가입시 임력했던 이메일 인증을 통해 비밀번호 찾기를 이용할 수 있다.
      
   
   **2. 재설정**   
 ![비밀번호재설정](https://user-images.githubusercontent.com/39483946/218007234-2150aa6d-1f13-47aa-8521-fff8bc79ffdf.JPG)
   
-  이메일인증에 성공시 비밀번호를 재설정 할 수 있다. 
+-> 이메일인증에 성공시 비밀번호를 재설정 할 수 있다. 
   
  <details>
     <summary>[ 출국일지 관리 ]</summary>   
+
+  **1. 출국일지 등록 / 수정**   
+![출국일지 등록](https://user-images.githubusercontent.com/39483946/218007847-3513f205-d74f-4460-9c4b-fcaa82e4d199.JPG)
+
+-> 출국일은 오늘 날짜 이후로만 선택 가능하게 제한
+-> 출국 10일전 알림서비스 체크 가능
+
+  **2. 출국일지에 따른 화면처리 및 Ajax를 통한 체크리스트 저장**
+![출국일남은사람](https://user-images.githubusercontent.com/39483946/218007816-64af3a59-b335-4839-99c2-ac32e71e0dd9.JPG)
+  
+-> 출국일 남은사람
+  
+![출국일지 디데이](https://user-images.githubusercontent.com/39483946/218007894-8ed3540d-6a22-414e-9709-c40019216339.JPG)
+
+-> 출국일 디데이
+
+![출국일지난사람](https://user-images.githubusercontent.com/39483946/218007923-58c86368-6888-4071-84ee-dda5b0f603b2.JPG)
+  
+-> 출국일 지난사람
 
