@@ -92,7 +92,7 @@
 ![비밀번호재설정](https://user-images.githubusercontent.com/39483946/218007234-2150aa6d-1f13-47aa-8521-fff8bc79ffdf.JPG)
   
 -> 이메일인증에 성공시 비밀번호를 재설정 할 수 있다. 
- </details>
+ </details>  <br/>
  <details>
     <summary>[ 출국일지 관리 ]</summary>   
 
@@ -126,7 +126,7 @@
   
 -> 회원가입시 메일수신동의를 체크 한 회원은 출국10일전에 메일로도 알림서비스를 받을 수 있음 
 
-</details>   
+</details>     <br/>
  <details>
     <summary>[ 나에게 맞는 나라찾기 ]</summary> 
   
@@ -138,7 +138,7 @@
 
 -> 체크한 항목에 맞는 나라 결과를 보여줌
 
- </details>
+ </details>  <br/>
  
  ## 설계   
  
@@ -148,7 +148,7 @@
 [테이블 정의서 12.22.pdf](https://github.com/JIHEE0616/semi/files/10717986/12.22.pdf)
  
 ![세미ERD](https://user-images.githubusercontent.com/39483946/218352904-57b20302-bf53-4efb-9b83-a6115b135ef9.JPG)
- 
+  <br/>
  ## 개발 내용
  - **[ 팝업창 ]**
 1) 홈페이지 방문시 팝업창 뜸 -> 나에게 맞는 나라찾기로 이동 가능
@@ -181,3 +181,4 @@
 - **[ 나에게 맞는 나라찾기 ]**
 1) 사용자가 직접 원하는 언어/여행지/날씨/성향을 선택하여 적합한 워킹홀리데이 나라를 매칭 해주는 기능
 -> 나라정보 페이지로 이동 가능
+  <br/>
