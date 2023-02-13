@@ -93,7 +93,7 @@
 #### 4-2 프론트엔드
 - Visual Studio Code (HTML / CSS)
 
-### 4. 실행 화면
+### 5. 실행 화면
   <details>
     <summary>[ 메인페이지 - 팝업창 ]</summary>   
   
