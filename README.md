@@ -101,25 +101,25 @@
 
 -> 출국일은 오늘 날짜 이후로만 선택 가능하게 제한
 -> 출국 10일전 알림서비스 체크 가능
- <br/>
+ <br> <br>
   **2. 출국일지에 따른 화면처리 및 Ajax를 통한 체크리스트 저장**
 ![출국일남은사람](https://user-images.githubusercontent.com/39483946/218007816-64af3a59-b335-4839-99c2-ac32e71e0dd9.JPG)
   
 -> 출국일 남은사람
-   <br/>
+    <br> <br>
 ![출국일지 디데이](https://user-images.githubusercontent.com/39483946/218007894-8ed3540d-6a22-414e-9709-c40019216339.JPG)
 
 -> 출국일 디데이
- <br/>
+  <br> <br>
 ![출국일지난사람](https://user-images.githubusercontent.com/39483946/218007923-58c86368-6888-4071-84ee-dda5b0f603b2.JPG)
   
 -> 출국일 지난사람 / 삭제가능
- <br/>
+ <br> <br>
 **3. 출국일 알림서비스**
 ![알림서비스동의시출국10일전알림팝업](https://user-images.githubusercontent.com/39483946/218007749-27b6697c-d37c-4b6e-afd1-020aca3bbd6a.JPG)
   
 -> 10일전 알림서비스 체크하면 로그인시 알림팝업을 띄워줌
-   <br/>
+  <br> <br>
 ![10일전단체메일전송](https://user-images.githubusercontent.com/39483946/218007572-0a1d412f-b965-4587-9d5e-2e3289654d10.JPG)
 
 ![출국10일전메일수신](https://user-images.githubusercontent.com/39483946/218007788-57219bb5-b208-4011-b4fc-001f2752f3ee.JPG)
