@@ -96,9 +96,9 @@
 ### 4. 실행 화면
   <details>
     <summary>[ 메인페이지 - 팝업창 ]</summary>   
+  
 ![메인화면 팝업창](https://user-images.githubusercontent.com/39483946/218351823-be2969f0-8b04-425b-a0a4-79da37f428e3.JPG)
 
-  
 -> 하루동안 이 창 열지 않음 체크 후 닫을 시 쿠키가 생성되어 1일간 해당 팝업이 열리지 않음
   </details>
   
